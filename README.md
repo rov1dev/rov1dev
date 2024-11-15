@@ -5,6 +5,7 @@
 - 💬 Ask me about https://t.me://nazarovweb
 - 📫 How to reach me: nazarov1.off@gmail.com
 - ⚡ Fun fact: We burn more calories while sleeping than when we watching television.
+- 💻 My portfolio https://portfolio-elshod.vercel.app/
   
   <hr>
   
